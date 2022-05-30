@@ -1,1 +1,1 @@
-# Capacita-o-Automa-o-de-Teste
+# Capacitacão Automação de Testes
